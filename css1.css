@@ -1,0 +1,38 @@
+body{
+background-image:url('w2.jpg');
+background-size:content;
+border:5px solid green;
+margin:0px;
+}
+#maindiv{
+background-color:orange;
+font-size:3vh;
+padding-left:2%;
+padding-top:2%;
+text-align:left;
+margin:0% 26%;
+margin-right:30%;
+margin:center;
+margin-top:5%;
+border:3px solid red;
+}
+.TXTINPTS{
+
+BACKGROUND-COLOR:SKYBLUE;
+FONT-SIZE:14px;
+BORDER-RADIUS:3PX;
+BORDER:2PX OUTSET BLUE;
+PADDING-RIGHT:3vw;
+PADDING-TOP:10PX;
+PADDING-BOTTOM:10PX;
+
+}
+h1{
+margin-right:7%;
+margin-top:10px;
+margin-bottom:0px;
+font-size:10vh;
+color:white;
+text-align:center;
+text-decoration:underline;
+}
